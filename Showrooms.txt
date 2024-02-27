@@ -1,0 +1,15 @@
+Showroom Name: TATA
+Showroom Address: SHOLINGANALUR,CHENNAI
+Manager Name: JOHN
+Total Employees: 2300
+Total Cars In Stock: 452
+
+
+Showroom Name: SUZUKI
+Showroom Address: SAIDAPET,CHENNAI
+Manager Name: MARGOT
+Total Employees: 4500
+Total Cars In Stock: 326
+
+
+
